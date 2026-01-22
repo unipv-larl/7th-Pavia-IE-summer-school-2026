@@ -21,7 +21,7 @@ Participation in the Summer School, including active participation in the Poster
 ## [Course materials](materials.md)
 ## [Posters](posters.md)
 ## [Social Dinner](dinner.md) 
-## [Past Editions](http://indoeuropean.wikidot.com/)
+## [Past Editions](https://unipv-larl.github.io/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/)
 
 ## Contacts
 For any inquiries, please get in touch with the organizers:
