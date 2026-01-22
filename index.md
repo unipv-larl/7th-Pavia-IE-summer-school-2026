@@ -28,4 +28,3 @@ For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi@unipv.it)
 - Matteo Tarsi (matteo.tarsi@unipv.it)
 - Nadia Scanavino (nadia.scanavino01@universitadipavia.it)
-- Matteo Tarsi (matteo.tarsi@unipv.it)
