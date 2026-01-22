@@ -9,7 +9,13 @@ Participation in the Summer School, including active participation in the Poster
 
 ## Courses
 
-TBA
+- Course 1: **Old Church Slavonic** - Thomas Olander (University of Copenhagen)
+- Course 2: **Germanic** - Ludwig Rübekeil (Universität Zürich)
+- Course 3: **Sanskrit** - Hans Heinrich Hock (University of Illinois Urbana-Champaign)
+- Course 4: **Albanian** - Giulio Imberciadori (Ludwig-Maximilians-Universität München)
+- Course 5: **The typology of Indo-European** - Silvia Luraghi (University of Pavia)
+- Invited lecture: **Hittite - a language of culture** - Elisabeth Rieken (Philipps-Universität Marburg)
+
 
 ## [Schedule](schedule.md)
 ## [Course materials](materials.md)
@@ -20,4 +26,6 @@ TBA
 ## Contacts
 For any inquiries, please get in touch with the organizers:
 - Chiara Zanchi (chiara.zanchi@unipv.it)
+- Matteo Tarsi (matteo.tarsi@unipv.it)
+- Nadia Scanavino (nadia.scanavino01@universitadipavia.it)
 - Matteo Tarsi (matteo.tarsi@unipv.it)
