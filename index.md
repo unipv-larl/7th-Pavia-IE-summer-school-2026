@@ -18,7 +18,8 @@ The **registration fee** will be €100. Registrations will open in **March** an
   
 - Invited lecture: **Hittite - a language of literature and culture** - Elisabeth Rieken (Philipps-Universität Marburg)
   
-- Presentation of the [**PIE Collective**](https://www.pie-collective.com) - Theresa Roth (Humboldt Universität zu Berlin)
+- Presentation of the [PIE Collective](https://www.pie-collective.com) - Theresa Roth (Humboldt Universität zu Berlin)
+
 
 
 ## [Schedule](schedule.md)
