@@ -6,7 +6,7 @@ The summer school will be held from **September 7** to **September 12, 2026** at
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
-The **registration fee** will be €100. Registrations will open in **March** and remain open until the **end of June**.
+The **registration fee** will be €100. **Registrations are now open until the end of June**. Please fill out this [form](https://forms.gle/VJJt1swQGd7HcWpx8) to register.
 
 ## Courses
 
