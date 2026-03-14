@@ -6,7 +6,8 @@ The summer school will be held from **September 7** to **September 12, 2026** at
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
-The **registration fee** will be €100. **Registrations are now open until the end of June**. Please fill out this [form](https://forms.gle/VJJt1swQGd7HcWpx8) to register.
+**Registrations are open!** 
+Please fill out the form in the dedicated section below to register. 
 
 ## Courses
 
@@ -21,7 +22,7 @@ The **registration fee** will be €100. **Registrations are now open until the 
 - Presentation of the [PIE Collective](https://www.pie-collective.com) - Theresa Roth (Humboldt University of Berlin)
 
 
-
+## [Registration](Registration.md)
 ## [Schedule](schedule.md)
 ## [Course materials](materials.md)
 ## [Posters](posters.md)
