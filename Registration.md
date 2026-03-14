@@ -7,4 +7,4 @@ If you are an undergraduate student, you may register. However, in addition to f
 
 Registrations will close at the **end of June**.
 
-**We are looking forward to seeing you in Pavia!**
+We are looking forward to seeing you in Pavia!
