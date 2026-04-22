@@ -21,6 +21,7 @@ Please fill out the form in the dedicated section below to register.
   
 - Presentation of the [PIE Collective](https://www.pie-collective.com) - Theresa Roth (Humboldt University of Berlin)
 
+Lectures scheduled from Monday to Friday will take place in **Aula Caminetto** (Palazzo San Tommaso, 1st floor, Piazza del Lino 2), while those on Saturday will be held in **Aula Volta** (Palazzo Centrale, Corso Strada Nuova 65)
 
 ## [Registration](Registration.md)
 ## [Schedule](schedule.md)
