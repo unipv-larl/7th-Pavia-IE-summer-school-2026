@@ -1,2 +1,2 @@
-# Registrations are now closed.
+# Registrations are now closed
 
