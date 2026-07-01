@@ -6,8 +6,6 @@ The summer school will be held from **September 7** to **September 12, 2026** at
 
 Participation in the Summer School, including active participation in the Poster Session, stands for **3 ECTS**.
 
-**Registrations are open!** 
-Please fill out the form in the dedicated section below to register. 
 
 ## Courses
 
