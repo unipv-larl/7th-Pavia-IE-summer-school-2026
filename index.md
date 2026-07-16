@@ -11,7 +11,7 @@ Participation in the Summer School, including active participation in the Poster
 
 - Course 1: **Old Church Slavonic** - Thomas Olander (University of Copenhagen)
 - Course 2: **Germanic** - Ludwig Rübekeil (University of Zurich)
-- Course 3: **Sanskrit** - Hans Heinrich Hock (University of Illinois Urbana-Champaign)
+- Course 3: **Sanskrit** - Hans Henrich Hock (University of Illinois Urbana-Champaign)
 - Course 4: **Albanian** - Giulio Imberciadori (Ludwig Maximilian University of Munich)
 - Course 5: **The typology of Indo-European** - Silvia Luraghi (University of Pavia)
   
