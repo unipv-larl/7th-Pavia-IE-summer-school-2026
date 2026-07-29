@@ -2,13 +2,14 @@
 
 ## Courses and instructors 
 
-- Course 1: **Anatolian** - Guglielmo Inglese (University of Turin)
-- Course 2: **Mycenaean** - Daniel Kölligan (Julius-Maximilians-Universität Würzburg)
-- Course 3: **Avestan** - Benedikt Peschl (Freie Universität Berlin)
-- Course 4: **Italic** - Michael Weiss (Cornell University)
-- Course 5: **Indo-European Mythology and Poetics** - Riccardo Ginevra (UCSC Milan)
-  
-- Invited lecture: ***The Yamnaya Impact on Prehistoric Europe*** - Volker Heyd (University of Helsinki)
+- **Germanic** - Ludwig Rübekeil (Universität Zürich)
+- **Old Church Slavonic** - Thomas Olander (University of Copenhagen)
+- **Sanskrit** -  Hans Henrich Hock (University of Illinois Urbana-Champaign)
+- **Albanian** - Giulio Imberciadori (Ludwig-Maximilians-Universität München)
+- **The typology of Indo-European** - Silvia Luraghi (Università di Pavia)
+
+- Invited lecture: **Hittite - a language of culture** - Elisabeth Rieken (Philipps-Universität Marburg)
+
 
 ## Schedule
 
