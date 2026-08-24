@@ -16,8 +16,8 @@
 ## Schedule
 
 | 🕒 |Monday  7  |  Tuesday  8 | Wednesday 9 | Thursday 10 |  Friday 11  | Saturday 12 |
-| ----------- | ----------- | ----------- | ----------- | ------------- | ------------ | ------------- | 
-|7.30-8.30 |_Walk and talk_|_Walk and talk_|_Walk and talk_|_Walk and talk_|_Walk and talk_|_Walk and talk_|
+| --------- | ----------- | ----------- | ----------- | ------------- | ------------ | --------------- | 
+|8.00-9.00 ||_Walk and talk_|_Walk and talk_|_Walk and talk_|_Walk and talk_||
 | 9.10-10.55 | **Germanic** | **Sanskrit** |**Old Church Slavonic** | **Albanian**| **Sanskrit** | **Old Church Slavonic** |
 | 10.55-11.15 | Break | Break | Break | Break | Break | Break |
 | 11.15-13.00 | **Albanian** | **Germanic** | **Sanskrit** | **Germanic**| **Old Church Slavonic** | **Albanian** |
