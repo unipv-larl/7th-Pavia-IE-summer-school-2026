@@ -18,7 +18,7 @@
 
 **Nadia Scanavino** - [_Greek preverbs in diachrony: the case of the preverb_ anti-](Scanavino.pdf)
 
-**Matteo Tarsi** - [_Verb valency in Germanic: Diachronic analysis and reconstruction of protolinguistic scenario](Tarsi.pdf)
+**Matteo Tarsi** - [_Verb valency in Germanic: Diachronic analysis and reconstruction of protolinguistic scenario_](Tarsi.pdf)
 
 
 
