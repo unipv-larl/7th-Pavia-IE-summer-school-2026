@@ -2,9 +2,9 @@
 
 **Angela Mele** - [_Paren(theticals) in Herodotus: means to convey Evidentiality and Epistemic Modality_](Mele.pdf)
 
-**Beatrice Gallino** - [_People and Gods from an Athenian sanctuary_](Gallino.pdf)
+**Beatrice Gallino** - [_People and Gods from an Athenian sanctuary_](Gallino1.pdf)
 
-**Rodrigo Garcia Beni** - _Graeco-Aryan *gu̯elbh- revisited_
+**Rodrigo Garcia Beni** - [_Graeco-Aryan *gu̯elbh- revisited_](Garcia.pdf)
 
 **Anthony Burger** - [_Building a Searchable Online Dictionary for Old Irish Textbooks_](Burger.pdf)
 
@@ -12,7 +12,7 @@
 
 **Ariadna Calero Riesco** - [_Exophoric demonstratives in Umbrian_](Calero.pdf)
 
-**Lucia López de los Mozos Cervantes** - _Distribution and Semantics of the PIE Roots for 'other'_
+**Lucia López de los Mozos Cervantes** -[ _Distribution and Semantics of the PIE Roots for 'other'_](Lopez.pdf)
 
 **Elena Maria Sinatra** - [_The expression of gender in Phrygian Onomastics_](Sinatra.pdf)
 
