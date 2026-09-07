@@ -1,6 +1,8 @@
 ## Germanic
 [Slides - first lesson](materiali/Slides_Rubekeil1.pdf)
 
+[References](materiali/Ref_Rubekeil.pdf)
+
 ## Sanskrit
 [Slides - first lesson](materiali/Hock1.pdf)
 
