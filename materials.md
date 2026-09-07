@@ -18,4 +18,18 @@
 ## The typology of Indo-European
 [Slides](materiali/Slides_Luraghi.pdf)
 
+[Lehmann 2016](materiali/Ref_Luraghi1.pdf])à
+
+[Hopper 1973](materiali/Ref_Luraghi2.pdf)
+
+[Luraghi 2022](materiali/Ref_Luraghi3.pdf)
+
+[Luraghi 2011](materiali/Ref_Luraghi4.pdf)
+
+[Luraghi 2011](materiali/Ref_Luraghi4.pdf)
+
+[Luraghi 2016](materiali/Ref_Luraghi5.pdf)
+
+[Luraghi 2016](materiali/Ref_Luraghi6.pdf)
+
   
