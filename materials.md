@@ -1,13 +1,13 @@
 ## Germanic
-[Slides - first lesson](Slides_Rubekeil1.pdf)
+[Slides - first lesson](materiali/Slides_Rubekeil1.pdf)
 
 ## Sanskrit
-[References](References_Hock.pdf)
+[References](materiali/References_Hock.pdf)
 
 ## 	Old Church Slavonic
 [Handout](https://sproghistorie.dk/temp/pavia-2026)
 
 ## The typology of Indo-European
-[Slides](Slides_Luraghi.pdf)
+[Slides](materiali/Slides_Luraghi.pdf)
 
   
