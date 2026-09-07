@@ -8,8 +8,6 @@
 
 **Anthony Burger** - [_Building a Searchable Online Dictionary for Old Irish Textbooks_](Burger.pdf)
 
-**Thomas Byrne** - _Substrate influence: British toponyms as products of language contact_
-
 **Ariadna Calero Riesco** - [_Exophoric demonstratives in Umbrian_](Calero.pdf)
 
 **Lucia López de los Mozos Cervantes** -[ _Distribution and Semantics of the PIE Roots for 'other'_](Lopez.pdf)
