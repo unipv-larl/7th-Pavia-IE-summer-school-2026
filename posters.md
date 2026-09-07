@@ -1,4 +1,4 @@
-##Poster
+## Posters
 
 **Angela Mele** - [_Paren(theticals) in Herodotus: means to convey Evidentiality and Epistemic Modality_](poster/Mele.pdf)
 
