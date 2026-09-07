@@ -4,11 +4,11 @@
 ## Sanskrit
 [Slides - first lesson](materiali/Hock1.pdf)
 
-[Slides -second lesson](materiali/Hock2.pdf)
+[Slides - second lesson](materiali/Hock2.pdf)
 
-[Slides -third lesson](materiali/Hock3.pdf)
+[Slides - third lesson](materiali/Hock3.pdf)
 
-[Slides -forth lesson](materiali/Hock4.pdf)
+[Slides - forth lesson](materiali/Hock4.pdf)
 
 [References](materiali/References_Hock.pdf)
 
