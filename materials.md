@@ -1,3 +1,6 @@
+## Germanic
+[Slides - first lesson](Slides_Rubekeil1.pdf)
+
 ## Sanskrit
 [References](References_Hock.pdf)
 
