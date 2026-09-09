@@ -3,6 +3,8 @@
 
 [Slides - second lesson](materiali/Slide_Rubekeil2.pdf)
 
+[Slides - third lesson](materiali/Slides_Rubekeil3)
+
 [Self-assessment questions](materiali/QL_Rubekeil.pdf) 
 
 [References](materiali/Ref_Rubekeil.pdf)
