@@ -3,6 +3,8 @@
 
 [Slides - second lesson](materiali/Slide_Rubekeil2.pdf)
 
+[Self-assessment questions](materiali/QL_Rubekeil.pdf) 
+
 [References](materiali/Ref_Rubekeil.pdf)
 
 ## Sanskrit
