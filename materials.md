@@ -5,6 +5,8 @@
 
 [Slides - third lesson](materiali/Slides_Rubekeil3.pdf)
 
+[Slides - third lesson (full version)](materiali/Slides_Rubekeil3full.pdf)
+
 [Slides - fourth lesson](materiali/Slides_Rubekeil4.pdf)
 
 [Self-assessment questions](materiali/QL_Rubekeil.pdf) 
