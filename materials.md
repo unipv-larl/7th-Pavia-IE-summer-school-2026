@@ -40,7 +40,7 @@
 
 [4 - Syntax](materiali/Slides_Albanian4.pdf)
 
-[Images](materiali/Pics_Alb)
+[Images](materiali/Images_Albanian.md)
 
 [References](Slides_Albanian5.pdf)
 
