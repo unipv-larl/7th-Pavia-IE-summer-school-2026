@@ -3,9 +3,7 @@
 
 [Slides - second lesson](materiali/Slide_Rubekeil2.pdf)
 
-[Slides - third lesson](materiali/Slides_Rubekeil3.pdf)
-
-[Slides - third lesson (full version)](materiali/Slides_Rubekeil3full.pdf)
+[Slides - third lesson](materiali/Slides_Rubekeil3full.pdf)
 
 [Slides - fourth lesson](materiali/Slides_Rubekeil4.pdf)
 
@@ -28,7 +26,7 @@
 [Handout](https://sproghistorie.dk/temp/pavia-2026)
 
 ## The typology of Indo-European
-[Slides](materiali/Slides_Luraghi.pdf)
+[Slides](materiali/Slides_Luraghi1.pdf)
 
 **Reference material**
 
