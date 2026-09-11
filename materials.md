@@ -40,7 +40,11 @@
 
 [4 - Syntax](materiali/Slides_Albanian4.pdf)
 
+[Images](materiali/Pics_Alb)
+
 [References](Slides_Albanian5.pdf)
+
+
 
 
 ## The typology of Indo-European
