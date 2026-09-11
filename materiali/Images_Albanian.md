@@ -14,4 +14,4 @@
 
 [Image 8 - Laberia](Pics_Alb/Pic_8_Laberia.pdf)
 
-[Image 9 - IE branches](Pics_Alb/Pic_9_IE_branches.pdf)
+[Image 9 - IE branches](Pics_Alb/Pic_9_IE_Branches.pdf)
