@@ -12,7 +12,7 @@
 
 **Lucia López de los Mozos Cervantes** -[ _Distribution and Semantics of the PIE Roots for 'other'_](poster/Lopez.pdf)
 
- **Maria Molina** - [_Universal Dependencies for Hittite_](poster/Poster_Molina.pdf)
+ **Maria Molina** - [_Universal Dependencies for Hittite_](poster/Molina_poster1.pdf)
 
 **Elena Maria Sinatra** - [_The expression of gender in Phrygian Onomastics_](poster/Sinatra.pdf)
 
