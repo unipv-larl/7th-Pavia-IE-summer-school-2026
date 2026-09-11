@@ -31,6 +31,17 @@
 
 [Slides 3](materiali/Slides_Olander3.pdf)
 
+## Albanian
+[1 - Introduction](materiali/Slides_Albanian1.pdf)
+
+[2 - Phonology](materiali/Slides_Albanian2.pdf)
+
+[3 - Morphology](materiali/Slides_Albanian3.pdf)
+
+[4 - Syntax](materiali/Slides_Albanian4.pdf)
+
+[References](Slides_Albanian5.pdf)
+
 
 ## The typology of Indo-European
 [Slides](materiali/Slides_Luraghi1.pdf)
