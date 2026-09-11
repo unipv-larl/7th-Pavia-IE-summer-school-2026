@@ -25,6 +25,13 @@
 ## 	Old Church Slavonic
 [Handout](https://sproghistorie.dk/temp/pavia-2026)
 
+[Slides 1](materiali/Slides_Olander1.pdf)
+
+[Slides 2](materiali/Slides_Olander2.pdf)
+
+[Slides 3](materiali/Slides_Olander.pdf)
+
+
 ## The typology of Indo-European
 [Slides](materiali/Slides_Luraghi1.pdf)
 
