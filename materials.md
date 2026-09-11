@@ -29,7 +29,7 @@
 
 [Slides 2](materiali/Slides_Olander2.pdf)
 
-[Slides 3](materiali/Slides_Olander.pdf)
+[Slides 3](materiali/Slides_Olander3.pdf)
 
 
 ## The typology of Indo-European
