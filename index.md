@@ -25,7 +25,6 @@ Lectures scheduled from Monday to Friday will take place in **Aula Caminetto** (
 ## [Schedule](schedule.md)
 ## [Course materials](materials.md)
 ## [Posters](posters.md)
-## [Social Dinner](dinner.md) 
 ## [Past Editions](https://unipv-larl.github.io/6th-Pavia-International-Summer-School-for-Indo-European-Linguistics/)
 
 ## Contacts
