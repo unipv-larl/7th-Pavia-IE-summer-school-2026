@@ -31,6 +31,8 @@
 
 [Slides 3](materiali/Slides_Olander3.pdf)
 
+[Slides 4](materiali/Slides_Olander4.pdf)
+
 ## Albanian
 [1 - Introduction](materiali/Slides_Albanian1.pdf)
 
@@ -43,8 +45,6 @@
 [Images](materiali/Images_Albanian.md)
 
 [References](Slides_Albanian5.pdf)
-
-
 
 
 ## The typology of Indo-European
